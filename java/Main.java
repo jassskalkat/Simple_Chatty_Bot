@@ -61,7 +61,7 @@ public class Main {
         int answer = scanner.nextInt();
         while (answer != 2) {
             System.out.print("Please, try again. \n> ");
-            answer = scanner.nextInt();
+            answer = scanner.nextInt(); 
         }
     }
 
