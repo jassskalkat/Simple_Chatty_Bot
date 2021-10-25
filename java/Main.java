@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Main {
 
-    final static Scanner scanner = new Scanner(System.in); // Do not change this line
+    final static Scanner scanner = new Scanner(System.in); // Do not change this line 
 
     public static void main(String[] args) {
         // invoking the methods
