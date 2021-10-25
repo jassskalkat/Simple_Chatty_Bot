@@ -67,6 +67,6 @@ public class Main {
 
     // end the program with a message
     static void end() {
-        System.out.println("Congratulations, have a nice day!"); // Do not change this text
+        System.out.println("Congratulations, have a nice day!"); // Do not change this text 
     }
 }
