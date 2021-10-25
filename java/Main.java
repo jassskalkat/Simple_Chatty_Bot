@@ -1,7 +1,7 @@
 /* FRIDAY is a simple and fun chatty bot for greeting the user and guessing their age.
 * The bot will also test your knowledge with one simple question.                   */
 
-import java.util.Scanner;
+import java.util.Scanner; 
 
 public class Main {
 
